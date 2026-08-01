@@ -6,9 +6,9 @@ branding:
   color: 'green'
 inputs:
   release:
-    description: 'mindev release version to be installed (e.g., v0.2.2 or latest)'
+    description: 'mindev release version to be installed (e.g., v0.3.0 or latest)'
     required: false
-    default: 'v0.2.2'
+    default: 'v0.3.0'
   rules-directory:
     description: 'Directory containing the rules and tests to run'
     required: false
